@@ -1,2 +1,2 @@
 # pachong
-a Reptile project based on python.
+A Reptile project based on python.
